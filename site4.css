@@ -1,0 +1,39 @@
+.logo{background-color:rgb(51, 34, 34);
+}
+.logo2{height: 150px;
+     padding-left: 750px;}
+     
+     .cadastro{background-color:rgb(51, 34, 34);
+    height: 890px;
+     width: 50%;
+     margin: auto;
+     text-align: center;
+     color: white;
+     font-size: 22px;
+}
+    .nome{
+padding-top: 69px;}
+
+.btnenviar{
+     color: white;
+     background-color: rgb(0, 0, 121);
+     border-radius: 20px;
+     padding: 10px 35px; 
+     text-decoration: none;
+     margin-top: 30px;
+}
+
+body{
+     margin: 0;
+     background-color:  rgb(63, 61, 61);
+}
+.centro3 a{
+     color: rgb(255, 255, 255);
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+}
+.centro3{
+     display: inline;
+}
+

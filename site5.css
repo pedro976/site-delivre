@@ -1,0 +1,30 @@
+
+.centro3 a{
+     color: rgb(255, 255, 255);
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+}
+.centro3{
+     display: inline;
+}
+.logo2{height: 150px;
+    padding-left: 750px;}
+    .logo{background-color:rgb(51, 34, 34);}
+    body{
+        margin: 0;
+        background-color:  rgb(63, 61, 61);
+   }
+   .cadastro{background-color:rgb(69, 65, 65);
+    height: 334px;
+     width: 50%;
+     margin: auto;
+     text-align: center;
+     color: white;
+     font-size: 22px;}
+.imagempesquisa{
+    height: 123px;
+    width: 890px;
+    padding-left: 278px;
+}
+

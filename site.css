@@ -1,0 +1,26 @@
+.logo{background-color:rgb(51, 34, 34);
+}
+.logo2{height: 150px;
+     padding-left: 750px;}
+.quemsomos{
+    width: 40%;
+padding-left: 790px;
+padding-top: 30px;}
+.imagem{height:300px;
+padding-right: 190px}
+
+body{
+    margin: 0;
+    background-color:  rgb(141, 141, 141);
+}
+
+
+.centro2 a{display: inline;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 20px;
+    text-align: center;
+}
+.centro2{
+    display: inline;
+}
